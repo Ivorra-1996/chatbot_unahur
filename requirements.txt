@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary   # Para PostgreSQL, opcional: mysqlclient para MySQL
+chromadb
+tqdm
+numpy
+ollama             # Asumiendo que tenés Ollama local
